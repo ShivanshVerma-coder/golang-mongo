@@ -1,10 +1,10 @@
 # golang-mongo
 
-This repository contains 
-File structuring when using Golang as backend
-Loading of ENV files
-Connection with MongoDB
-CRUD operations with MongoDB
+This repository contains <br />
+File structuring when using Golang as backend <br />
+Loading of ENV files <br />
+Connection with MongoDB <br />
+CRUD operations with MongoDB <br/><br/>
 
 
 Special Thanks to Hitesh Choudhary for teaching me :- https://courses.learncodeonline.in/learn/home/Go-with-Golang/
